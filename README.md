@@ -34,7 +34,7 @@ This project is built with **React** using [Vite](https://vitejs.dev/) and writt
 
 ---
 
-![Markdown Previewer screenshot](public/screenshot.png)
+![Drum Machine animated gif](public/drummachine.gif)
 
 ---
 
