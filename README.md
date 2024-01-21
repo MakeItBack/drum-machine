@@ -1,11 +1,68 @@
-# TODO
+# Drum Machine
 
-- get the keypress working ✅
-- Get all tests passing ✅
-- create and add a favicon ✅
-- get the display flashing up nicely ✅
-- add project to gitHub ✅
-- complete all the repo info ✅
-- host project ✅
-- post the link in fcc and get it passing
-- fix up this readme
+<details>
+<summary>Table of content</summary>
+  
+## Table of Content
+- [Summary](#summary)
+- [Technologies](#technologies)
+- [Instructions](#instructions)
+- [Updates](#updates)
+- [Live Site](#live-site)  
+- [Status](#status)
+- [License](#license)
+
+</details>
+
+## Summary
+
+A simple drum machine web app<br>
+A project built as part of the **Front End Development Libraries** course by **freeCodeCamp**
+
+## Technologies
+
+[
+<img align="left" height="32" width="32" alt="Vite" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vite.svg" />
+<img align="left" height="32" width="32" alt="Typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" />
+<img align="left" height="32" width="32" alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" />
+<img align="left" height="32" width="32" alt="NPM" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/npm.svg" />
+<img align="left" height="32" width="32" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" />
+<img align="left" height="32" width="32" alt="Sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg" />
+](https://github.com/MakeItBack/Learning-Tracker)<br>
+
+This project is built with **React** using [Create React App](https://github.com/facebook/create-react-app) and uses the [marked](https://github.com/markedjs/marked) npm package.
+
+---
+
+![Markdown Previewer screenshot](public/screenshot.png)
+
+---
+
+## Instructions
+
+- Just bang away!
+- You can sound a drum by clicking it or tapping the suitable letter key on your keyboard
+  
+## Updates
+
+### Ideas:
+- Add additional functionality and controls - e.g. volume or different collections of sounds
+- Add nicer styling
+
+## Live Site
+
+This project is [deployed on Netlify](https://a-wee-drum.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8a4505a-ccbc-4d3f-8968-8be89bbc7365/deploy-status)](https://app.netlify.com/sites/a-wee-drum/deploys)
+
+## Status
+
+<a href="https://GitHub.com/MakeItBack/Markdown-Previewer/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://GitHub.com/MakeItBack/Markdown-Previewer/commit"><img src="https://img.shields.io/github/last-commit/MakeItBack/drum-machine"></a>
+
+## License
+
+This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.
+
+<a href="https://opensource.org/licenses"><img src="https://img.shields.io/github/license/MakeItBack/Drum-machine?color=dodgerblue"></a><br>
+
