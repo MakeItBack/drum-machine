@@ -30,7 +30,7 @@ A project built as part of the **Front End Development Libraries** course by **f
 <img align="left" height="32" width="32" alt="Sass" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg" />
 ](https://github.com/MakeItBack/Learning-Tracker)<br>
 
-This project is built with **React** using [Create React App](https://github.com/facebook/create-react-app) and uses the [marked](https://github.com/markedjs/marked) npm package.
+This project is built with **React** using [Vite](https://vitejs.dev/) and written in **Typescript** and **Sass.**
 
 ---
 
